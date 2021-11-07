@@ -1,0 +1,17 @@
+.height {
+    height: 30px;
+}
+.cardClass{
+    border-radius: 10px;
+    transition: .5s;
+}
+.cardClass:hover{
+    border-radius: 50px;
+}
+.registerText{
+    text-decoration: none;
+    font-size: 1.3rem;
+}
+.register{
+    color: rgb(5, 7, 151);
+}

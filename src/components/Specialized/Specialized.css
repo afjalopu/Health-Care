@@ -1,0 +1,13 @@
+.img-rounded img{
+    height: 400px;
+}
+.card{
+    background-color: black;
+    color: blanchedalmond;  
+    height: 600px;
+    border: none;
+    transition: .5s;
+}
+.card:hover{
+    border-radius: 40px;
+}
