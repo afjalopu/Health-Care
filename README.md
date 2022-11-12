@@ -15,14 +15,14 @@
 ## Live Link 
    https://simple-firebase-77311.web.app/
    
-## More Projects :
+# More Projects :
 
-• Book-Archive | | HTML, CSS, Bootstrap, JavaScript
+## Book-Archive | | HTML, CSS, Bootstrap, JavaScript
   - A JavaScript Project using API for Searching Different Types of Books.
   - Live Link : https://afjalopu.github.io/Book-Archive/
-• The Writers Club || HTML, CSS, Bootstrap, JavaScript, React
+## The Writers Club || HTML, CSS, Bootstrap, JavaScript, React
   - A React Based Project for Selecting Writers For the Club and Add Them to The Cart.
   - Live Link : https://condescending-varahamihira-135890.netlify.app/
-• Medicare Diagnostic || HTML, CSS, Bootstrap, JavaScript, React
+## Medicare Diagnostic || HTML, CSS, Bootstrap, JavaScript, React
   - A Diagnostic Website for the Medical Treatment of The Patients Using React Library.
   - Live Link : https://simple-firebase-77311.web.app/
